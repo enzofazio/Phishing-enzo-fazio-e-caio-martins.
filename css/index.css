@@ -1,0 +1,59 @@
+body {
+    background-color: #000;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .language {
+    position: absolute;
+    top: 10px;
+    color: #ccc;
+    font-size: 14px;
+  }
+  
+  .logo {
+    font-family: cursive;
+    font-size: 40px;
+    margin: 20px 0;
+  }
+  
+  .slogan {
+    font-size: 20px;
+    margin: 20px 0;
+  }
+  
+  
+  
+  .open-btn {
+    background-color: #0095f6;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 20px 0;
+  }
+  
+  .login a {
+    color: #0095f6;
+    text-decoration: none;
+  }
+  
+  .meta {
+    position: absolute;
+    bottom: 10px;
+    color: #aaa;
+    font-size: 14px;
+  }
